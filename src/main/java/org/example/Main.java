@@ -5,6 +5,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Test10");
+        System.out.println("Second Test10 Command");
 
 
     }

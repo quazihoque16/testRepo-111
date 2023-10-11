@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Test10");
         System.out.println("Second Test10 Command");
         System.out.println("Third Test");
+        System.out.println("Fourth Test");
 
 
     }
